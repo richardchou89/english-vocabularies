@@ -1,3 +1,8 @@
 site_name: Daily English Vocabularies
 theme:
   name: material
+
+plugins:
+  - search
+  - blog:
+      blog_dir: .
